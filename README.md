@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jish777
+- 👀 I’m interested in coding and help solve problems to the fellow beings.
+- 🌱 I’m currently learning Android development using Java
